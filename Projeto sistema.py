@@ -39,6 +39,9 @@ def addUsuario(**usuario):
                 addUsuario()
             else:
                 encerrarPrograma(dados1)
+                
+                
+                
         
 #Função Excluir um usuário 
 
